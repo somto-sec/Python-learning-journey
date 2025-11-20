@@ -1,2 +1,2 @@
 # python-for-cyber
-Biuilding Python skills with real world cybersecurity applicatons 
+This repository contains Python scripts and excercises focused on cyberscurity learning.
